@@ -2,7 +2,7 @@
   "storeHouse": [
     {
       "sourceName": "🌹自定义🌹",
-      "sourceUrl": "https://raw.githubusercontent.com/CatCars/apps/main/zdy2.json?token=GHSAT0AAAAAACKN46VCJELSGBL4MMDGYLAMZLCEXXQ"
+      "sourceUrl": "https://raw.githubusercontent.com/CatCars/apps/main/zdy2.json"
     },
     {
       "sourceName": "🌹主仓库🌹",
