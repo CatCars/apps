@@ -1,0 +1,24 @@
+{
+  "storeHouse": [
+    {
+      "sourceName": "🌹自定义🌹",
+      "sourceUrl": "https://raw.githubusercontent.com/CatCars/apps/main/zdy2.json?token=GHSAT0AAAAAACKN46VCJELSGBL4MMDGYLAMZLCEXXQ"
+    },
+    {
+      "sourceName": "🌹主仓库🌹",
+      "sourceUrl": "http://tv.nxog.top/nxog/ou1.php?url=http://tv.nxog.top&b="
+    },
+    {
+      "sourceName": "🌷备仓库🌷",
+      "sourceUrl": "http://m.nxog.top/nxog/ou1.php?url=http://m.nxog.top&b="
+    },
+    {
+      "sourceName": "💐测试仓库💐",
+      "sourceUrl": "http://w.nxog.top/nxog/ou1.php?url=http://w.nxog.top&xl=2&b="
+    },
+    {
+      "sourceName": "☘️本地肋手仓库☘️",
+      "sourceUrl": "clan://localhost/tvbox/dc.txt"
+    }
+  ]
+}
